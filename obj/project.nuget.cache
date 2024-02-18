@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRoCK/30NeTN5Cn/QAPAY5lpIuqBZG5TK3feY7VoWDavCvU5Q5HNNa5AaesnUvctuRvAqVVp9S4K6gfh0J3JHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\C#\\C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
